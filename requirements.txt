@@ -1,3 +1,5 @@
 python-binance
 requests[socks]
 numpy
+flask
+gunicorn
